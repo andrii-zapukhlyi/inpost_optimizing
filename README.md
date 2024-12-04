@@ -1,2 +1,2 @@
-# inpost_forecast
-InPost - parcel volume forecasting with ML / DL 
+# InPost - parcel volume forecasting with ML / DL
+ 
