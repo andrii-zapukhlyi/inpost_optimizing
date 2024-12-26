@@ -14,5 +14,14 @@ The data consists of 4 datasets containing various information from January 2021
 - X_ClientORDERS.xlsx: Provides X client's predictions for parcel volumes starting from January 2023.
 - Folder Temp: Includes daily weather data for the same period.
 
+## Achievements
+The GRU model achieved the best perfomance:
+
+- RMSE: 7426.6
+- MAE: 5810.23
+- MAPE: 0.91%
+
+The target variable, *Volume*, has a mean of 577,247 and a standard deviation of 299,621, with values ranging from 3,729 to 1,351,117. These results indicate relatively small prediction errors compared to the data scale.
+
 ## Conclusion
 In conclusion, this project successfully optimized InPost logistics by developing a robust predictive model for forecasting daily parcel shipments. By integrating multiple data sources, including historical shipment volumes, client forecasts, date-specific attributes, and weather conditions, the model significantly improved planning accuracy. Additionally, the GRU and LSTM models outperformed other algorithms, achieving the best performance in terms of forecasting accuracy.
