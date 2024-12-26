@@ -10,7 +10,7 @@ The solution involves preprocessing, visualizing, and analyzing the data, follow
 The data consists of 4 datasets containing various information from January 2021 to September 2023:
 
 - dimDates.csv: Includes information about days, such as year, month, day of the week, holiday indicators, and other date-related attributes.
-- Posting_volumes.parquet: Contains parcel volume data from January 2021 to September 2023 with separeted X client.
+- Posting_volumes.parquet: Contains parcel volume data from January 2021 to September 2023 with separated X client.
 - X_ClientORDERS.xlsx: Provides X client's predictions for parcel volumes starting from January 2023.
 - Folder Temp: Includes daily weather data for the same period.
 
