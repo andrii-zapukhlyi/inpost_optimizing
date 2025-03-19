@@ -17,9 +17,9 @@ The data consists of 4 datasets containing various information from January 2021
 ## Achievements
 The GRU model achieved the best perfomance:
 
-- RMSE: 6330.49
-- MAE: 5018.19
-- MAPE: 1.06 %
+- RMSE: 6591.25
+- MAE: 5368.38
+- MAPE: 0.9 %
 
 The target variable, Volume, has a mean of 577,247 and a standard deviation of 299,621, with values ranging from 3,729 to 1,351,117. These results indicate relatively small prediction errors compared to the data scale.
 
